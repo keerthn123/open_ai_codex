@@ -1,4 +1,4 @@
-import bot from "C:/Users/Keert/OneDrive/Desktop/open_ai_codex/client/assets/bot.svg";
+import bot from "./assets/bot.svg";
 import user from './assets/user.svg';
 
 const form = document.querySelector('form');
